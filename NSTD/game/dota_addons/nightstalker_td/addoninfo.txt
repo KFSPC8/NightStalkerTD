@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+  "TeamCount" "4"
+  "maps"      "nightstalker_td"
+  "IsPlayable"  "1"
+  "nightstalker_td"
+  {
+          "MaxPlayers"                    "4"
+  }
+
+}
